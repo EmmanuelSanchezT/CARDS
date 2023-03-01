@@ -1,0 +1,42 @@
+.Card1{
+    background: #733fc8;
+}
+
+.Parr2{
+    color: #a070ee;
+}
+
+.White{
+    color: white;
+}
+
+.Gris{
+    color: #989ea9;
+}
+
+.Gris3{
+    background-color: #49556b ;
+}
+.Gris4{
+    color: #3f4754;
+}
+
+.Gris2{
+    background: rgb(31, 32, 32)
+}
+
+.Black{
+    color: black;
+}
+.Comillas{
+    background-image: url(./imagenes/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top left 80%;
+}
+.img-border{
+    border: solid #a070ee;
+}
+
+.size{
+    font-size: 12.5pt;
+}
